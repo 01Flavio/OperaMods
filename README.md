@@ -1,4 +1,4 @@
-# OperaMods
+# OperaGX Mods
 Olá pessoas! Estou criando mods para o OperaGX
 Para instalar, primeiro ativem o modo desenvolvedor
 Ele fica na aba de extensões:
