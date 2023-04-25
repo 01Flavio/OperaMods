@@ -2,6 +2,7 @@
 Olá pessoas! Estou criando mods para o OperaGX
 Para instalar, primeiro ativem o modo desenvolvedor
 Ele fica na aba de extensões:
+
 ![image](https://user-images.githubusercontent.com/131195821/234161482-c8f6d9c7-23a4-45ae-bd3c-e7e837f5d422.png)
 
 -Baixe a pasta do mod de preferencia
